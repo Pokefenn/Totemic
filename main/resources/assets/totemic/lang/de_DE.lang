@@ -1,0 +1,27 @@
+# Key localizations
+
+
+# Item localizations
+item.totemic:totemHead.name=Totemkopf
+item.totemic:totemicStaff.name=Totemstab
+item.totemic:totemWhittlingKnife.name=Totemschnitzmesser
+item.totemic:totemsBat.name=Fledermaustotem
+item.totemic:totemsCactus.name=Kaktustotem
+item.totemic:totemsQuartzBlock.name=Quarzblocktotem
+item.totemic:totemsHorse.name=Pferdetotem
+item.totemic:chlorophyllicIngot.name=Chlorophyllbarren
+item.totmeic:paintBrush.name=Totem-Farbpinsel
+item.totemic:bucketChlorophyll.name=Chlorophylleimer
+item.totemic:chlorophyllCrystal.name=Chlorophyllkristall
+item.totemic:bottleChlorophyll.name=Chlorophyllflasche
+
+# Block localizations
+tile.totemBase.name=Totembasis
+tile.chlorophyllSolidifier.name=Chlorophyllverfestiger
+tile.totemWoods.name=Totemholz
+
+# GUI localizations
+container.totemic:paintBrush=Farbpinsel
+
+# Creative Tab localizations
+itemGroup.Totemic=Totemic
