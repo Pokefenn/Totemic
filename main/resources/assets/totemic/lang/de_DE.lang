@@ -9,9 +9,16 @@ item.totemic:totemsBat.name=Fledermaustotem
 item.totemic:totemsCactus.name=Kaktustotem
 item.totemic:totemsQuartzBlock.name=Quarzblocktotem
 item.totemic:totemsHorse.name=Pferdetotem
+item.totemic:chlorophyllicIngot.name=Chlorophyllbarren
+item.totmeic:paintBrush.name=Totem-Farbpinsel
+item.totemic:bucketChlorophyll.name=Chlorophylleimer
+item.totemic:chlorophyllCrystal.name=Chlorophyllkristall
+item.totemic:bottleChlorophyll.name=Chlorophyllflasche
 
 # Block localizations
-tile.totemic:totemBase.name=Totembasis
+tile.totemBase.name=Totembasis
+tile.chlorophyllSolidifier.name=Chlorophyllverfestiger
+tile.totemWoods.name=Totemholz
 
 # GUI localizations
 container.totemic:paintBrush=Farbpinsel
