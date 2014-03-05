@@ -189,5 +189,10 @@ public class TileTotemSocket extends TileTotemic implements IInventory
         }
         nbtTagCompound.setTag("Items", tagList);
     }
-
+   
+	@Override
+	public boolean isUseableByPlayer(EntityPlayer player)
+    {
+        return true;
+    }
 }

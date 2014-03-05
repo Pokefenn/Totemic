@@ -75,11 +75,6 @@ public class TileTotemic extends TileEntity
         this.customName = customName;
     }
 
-    public boolean isUseableByPlayer(EntityPlayer player)
-    {
-        return true;
-    }
-
     public void readFromNBT(NBTTagCompound nbtTagCompound)
     {
         super.readFromNBT(nbtTagCompound);
