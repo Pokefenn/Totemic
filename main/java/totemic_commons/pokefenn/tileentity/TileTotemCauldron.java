@@ -14,5 +14,11 @@ public class TileTotemCauldron extends TileTotemic
 
     }
 
+	@Override
+	public boolean isUseableByPlayer(EntityPlayer player)
+	{
+		return true;
+	}
+
 
 }

@@ -288,5 +288,10 @@ public class TileChlorophyllSolidifier extends TileTotemic implements IInventory
         return true;
     }
 
+	@Override
+    public boolean isUseableByPlayer(EntityPlayer player)
+    {
+        return true;
+    }
 
 }

@@ -198,5 +198,9 @@ public class TileTotemTable extends TileTotemic implements IInventory
         return false;
     }
 
-
+	@Override
+	public boolean isUseableByPlayer(EntityPlayer player)
+    {
+        return true;
+    }
 }
