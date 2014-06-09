@@ -1,1 +1,49 @@
- 
+# Key localizations
+
+# Item localizations
+item.totemic:totemicStaff.name=Stick for yer Totems
+item.totemic:totemWhittlingKnife.name=Totem Whittlin' Knife
+item.totemic:totemsBat.name=Bat Totem
+item.totemic:totemsHorse.name=Horse Totem
+item.totemic:totemsOcelot.name=Ocelot Totem
+item.totemic:totemsBlaze.name=Blaze Totem
+item.totemic:totemsSquid.name=Squid Totem
+item.totemic:totemsDraining.name=Drainin' Totem
+item.totemic:totemsRange.name=Totem o' Range
+item.totemic:chlorophyllicIngot.name=Bar o' Plant Juice
+item.totmeic:paintBrush.name=Paintin' brush o' Totem
+item.totemic:bucketChlorophyll.name=Bucket o' Plant Juice
+item.totemic:chlorophyllCrystal.name=Shiny o' Plant Juice
+item.totemic:blazingChlorophyllCrystal.name=Firin' Shiny o' Plant Juice
+item.totemic:bottleChlorophyll.name=Flask o' Plant Juice
+item.totemic:infusedTotemicStaff.name=Magic Stick for yer Totems
+item.totemic:leaf.name=Magic Tree Dropins
+item.totemic:infusedStick.name=Magic Stick
+item.totemic:totempedia.name=Book 'bout yer Totems
+item.totemic:potionResistance.name=Magic Drink o' Stoppage
+item.totemic:potionAntidote.name=Magic Drink o' Curin'
+item.totemic:potionRegeneration.name=Magic Drink o' Healin'
+item.totemic:infusedPotion.name=Magicy Magic Drink
+item.totemic:blazingVerdantCrystal.name=Grassy Fierin' Shiny
+item.totemic:verdantCrystal.name=Grassy Shiny
+item.totemic:shamanFlute.name=Flute of yer Healin' Doctor
+
+# Block localizations
+tile.chlorophyllSolidifier.name=Solidin' yer Plant Juice
+tile.totemWoods.name=Magic Timber
+tile.totemSupport.name=Support for yer Totem
+tile.totemIntelligence.name=Brains for yer Totem
+tile.totemTable.name=Table for yer Totem [Not ready for ye]
+tile.totemDraining.name=Totem o' Drainin'
+tile.totemSocket.name=Socket for yer Totem
+tile.totemSapling.name=Magic Tree Seed
+tile.totemLeaves.name=Magic Tree Clothes
+tile.totemMana.name=Magic Brains for yer Totems
+tile.totemCauldron.name=Pot for yer Totem
+
+# Fluid localizations
+fluid.fluidChlorophyll.name=Plant Juice
+
+# Creative Tab localizations
+itemGroup.Totemic=Totemic
+itemGroup.totemicPotions=Magic Totem Drinks
