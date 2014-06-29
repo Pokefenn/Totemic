@@ -62,7 +62,7 @@ totemic.ceremony.drought=Drought Ceremony
 totemic.ceremony.potion=Ceremony of Divine Elixirs
 
 totemicmisc.timeForCeremony=Startup time:
-totemicmisc.seconds= Seconds
+totemicmisc.seconds=Seconds
 totemicmisc.overTime=Over Time:
 totemicmisc.capitalFalse=False
 totemicmisc.capitalTrue=True
